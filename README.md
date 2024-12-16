@@ -11,3 +11,6 @@ This batch script designed to display important system informations.
 1. Download the `SSM.bat` file from this repository.
 2. Double click on the file.
 3. Enjoy!
+
+   ## screenshots
+![image](https://github.com/user-attachments/assets/13b1e23d-1277-482b-b799-febd7a5d053e)
